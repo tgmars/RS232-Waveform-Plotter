@@ -17,6 +17,6 @@
 ```matplotlib```
 
 #### Example output
-The following graph was generated with the command below
+The following graph was generated with this command: 
 ```python3 rs232-plotter.py none 15 11101010000 1 2 8```
 ![](img/11101010000.png "Output from execution of python3 rs232-plotter.py none 15 11101010000 1 2 8")
